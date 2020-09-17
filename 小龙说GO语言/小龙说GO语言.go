@@ -2,7 +2,7 @@ package main
 
 import (
 	//"xiaolongtalkgo/01Go语言基础/开篇"
-	"xiaolongtalkgo/01Go语言基础/环境安装/环境安装"
+	"xiaolongtalkgo/01Go语言基础/02环境安装/环境安装"
 )
 
 func main () {

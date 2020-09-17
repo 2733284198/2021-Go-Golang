@@ -20,8 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eab95659-1114-4f62-8ec5-5982c222688e" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/01Go语言基础/03基础数据类型、运算符、二进制、字节、内存地址/01基础数据类型.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Go语言基础/03基础数据类型、运算符、二进制、字节、内存地址/02运算符.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Go语言基础/03基础数据类型、运算符、二进制、字节、内存地址/03二进制、字节、内存.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01Go语言基础/环境安装/环境安装/test环境安装.go" beforeDir="false" afterPath="$PROJECT_DIR$/01Go语言基础/环境安装/环境安装/test环境安装.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01Go语言基础/开篇/开篇.go" beforeDir="false" afterPath="$PROJECT_DIR$/01Go语言基础/01开篇/开篇.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01Go语言基础/环境安装/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/01Go语言基础/02环境安装/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01Go语言基础/环境安装/环境安装/test环境安装.go" beforeDir="false" afterPath="$PROJECT_DIR$/01Go语言基础/02环境安装/环境安装/test环境安装.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小龙说GO语言.go" beforeDir="false" afterPath="$PROJECT_DIR$/小龙说GO语言.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +49,9 @@
     <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="ProjectId" id="1hXxZOgLcOTqqJFgzo7zNojAMRJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -61,47 +69,59 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="go.vgo" />
   </component>
-  <component name="RunManager" selected="Go Build.go build 小龙说GO语言.go (1)">
-    <configuration name="go build 小龙说GO语言.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build 02运算符.go">
+    <configuration name="go build 01基础数据类型.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="小龙说GO语言" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/小龙说GO语言.go" />
+      <filePath value="$PROJECT_DIR$/01Go语言基础/03基础数据类型、运算符、二进制、字节、内存地址/01基础数据类型.go" />
       <package value="xiaolongtalkgo" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 小龙说GO语言.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="xiaolonginwuhan" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/小龙说GO语言.go" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 02二进制、字节、内存.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="小龙说GO语言" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/01Go语言基础/环境安装/main.go" />
+      <filePath value="$PROJECT_DIR$/01Go语言基础/03基础数据类型、运算符、二进制、字节、内存地址/02二进制、字节、内存.go" />
       <package value="xiaolongtalkgo" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build xiaolongtalk.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="xiaolonginwuhan" />
-      <working_directory value="$PROJECT_DIR$/" />
+    <configuration name="go build 02运算符.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="小龙说GO语言" />
+      <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/xiaolongtalk.go" />
+      <filePath value="$PROJECT_DIR$/01Go语言基础/03基础数据类型、运算符、二进制、字节、内存地址/02运算符.go" />
+      <package value="xiaolongtalkgo" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 二进制_字节_内存地址.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="小龙说GO语言" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/01Go语言基础/03基础数据类型、运算符、二进制、字节、内存地址/二进制_字节_内存地址.go" />
+      <package value="xiaolongtalkgo" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build var.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="小龙说GO语言" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/01Go语言基础/03基础数据类型、运算符、二进制、字节、内存地址/var.go" />
+      <package value="xiaolongtalkgo" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build 小龙说GO语言.go (1)" />
-        <item itemvalue="Go Build.go build main.go" />
-        <item itemvalue="Go Build.go build 小龙说GO语言.go" />
-        <item itemvalue="Go Build.go build xiaolongtalk.go" />
+        <item itemvalue="Go Build.go build 02运算符.go" />
+        <item itemvalue="Go Build.go build 02二进制、字节、内存.go" />
+        <item itemvalue="Go Build.go build 01基础数据类型.go" />
+        <item itemvalue="Go Build.go build 二进制_字节_内存地址.go" />
+        <item itemvalue="Go Build.go build var.go" />
       </list>
     </recent_temporary>
   </component>
@@ -118,6 +138,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -128,10 +149,18 @@
     </environment>
   </component>
   <component name="WindowStateProjectService">
+    <state x="295" y="0" key="#go_build_01基础数据类型.go" timestamp="1600351307380">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="295" y="0" key="#go_build_01基础数据类型.go/0.0.1366.728@0.0.1366.728" timestamp="1600351307380" />
     <state x="295" y="0" key="#go_build_main.go" timestamp="1600269975976">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="295" y="0" key="#go_build_main.go/0.0.1366.728@0.0.1366.728" timestamp="1600269975976" />
+    <state x="295" y="0" key="#go_build_var.go" timestamp="1600347203252">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="295" y="0" key="#go_build_var.go/0.0.1366.728@0.0.1366.728" timestamp="1600347203252" />
     <state x="295" y="0" key="#go_build_xiaolongtalk.go" timestamp="1600175797664">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -144,22 +173,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="433" y="58" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600269291266" />
-    <state width="1313" height="333" key="GridCell.Tab.0.bottom" timestamp="1600274400512">
+    <state width="1313" height="164" key="GridCell.Tab.0.bottom" timestamp="1600353509228">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="333" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600274400512" />
-    <state width="1313" height="333" key="GridCell.Tab.0.center" timestamp="1600274400512">
+    <state width="1313" height="164" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600353509228" />
+    <state width="1313" height="164" key="GridCell.Tab.0.center" timestamp="1600353509228">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="333" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600274400512" />
-    <state width="1313" height="333" key="GridCell.Tab.0.left" timestamp="1600274400511">
+    <state width="1313" height="164" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600353509228" />
+    <state width="1313" height="164" key="GridCell.Tab.0.left" timestamp="1600353509228">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="333" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600274400511" />
-    <state width="1313" height="333" key="GridCell.Tab.0.right" timestamp="1600274400512">
+    <state width="1313" height="164" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600353509228" />
+    <state width="1313" height="164" key="GridCell.Tab.0.right" timestamp="1600353509228">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="333" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600274400512" />
+    <state width="1313" height="164" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600353509228" />
     <state x="75" y="0" key="SettingsEditor" timestamp="1600274529945">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

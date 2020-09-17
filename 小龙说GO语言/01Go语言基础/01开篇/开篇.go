@@ -1,4 +1,4 @@
-package 开篇
+package _1开篇
 
 import "fmt"
 
